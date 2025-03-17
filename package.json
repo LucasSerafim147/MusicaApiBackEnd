@@ -1,0 +1,17 @@
+{
+  "name": "musicaslucas",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": ["music", "api", "express"],
+  "author": "Seu Nome",
+  "license": "ISC",
+  "description": "API de gerenciamento de músicas com Express",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
